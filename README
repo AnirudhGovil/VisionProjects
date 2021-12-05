@@ -1,1 +1,5 @@
 CV projects using Tensorflow-Keras
+
+The object detection project does both classicfication of the emoji based on emotion and detection of the emoji in space.
+
+The visualisation of the layers of a CNN project was more of an exercise in understanding how they work.
